@@ -1,0 +1,20 @@
+{
+  "name": "lesspass-cordova",
+  "description": "LessPass Cordova app",
+  "version": "0.1.0",
+  "author": "Pierre Rudloff",
+  "bugs": "https://github.com/Rudloff/lesspass-cordova/issues",
+  "dependencies": {
+    "lesspass-pure": "~2.1.2"
+  },
+  "homepage": "https://github.com/Rudloff/lesspass-cordova",
+  "keywords": [
+    "cordova",
+    "lesspass",
+    "passwords",
+    "security"
+  ],
+  "license": "GPL-3.0",
+  "main": "node_modules/lesspass-pure/index.html",
+  "repository": "https://github.com/Rudloff/lesspass-cordova.git"
+}
