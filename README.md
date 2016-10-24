@@ -6,5 +6,5 @@ LessPass Cordova app
 
 ```bash
 cordova prepare
-cordova run android
+cordova build
 ```
