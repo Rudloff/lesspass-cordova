@@ -1,7 +1,7 @@
 {
   "name": "lesspass-cordova",
   "description": "LessPass Cordova app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Pierre Rudloff",
   "bugs": "https://github.com/Rudloff/lesspass-cordova/issues",
   "dependencies": {
