@@ -10,4 +10,8 @@
     <content src="node_modules/lesspass-pure/index.html" />
     <engine name="android" spec="~5.2.2" />
     <icon src="res/icon-128x128.png" />
+    <plugin name="cordova-plugin-statusbar" spec="~2.2.0" />
+    <preference name="StatusBarBackgroundColor" value="#555555" />
+    <plugin name="cordova-plugin-overview" spec="~0.1.2" />
+    <preference name="OverviewColor" value="#555555" />
 </widget>
