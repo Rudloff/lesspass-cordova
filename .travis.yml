@@ -1,0 +1,8 @@
+language: android
+android:
+    components:
+        - android-23
+before_install:
+    - npm install -g cordova
+install: cordova prepare
+script: cordova build android
