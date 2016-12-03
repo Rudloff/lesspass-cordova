@@ -5,7 +5,7 @@
   "author": "Pierre Rudloff",
   "bugs": "https://github.com/Rudloff/lesspass-cordova/issues",
   "dependencies": {
-    "lesspass-pure": "~3.0.5"
+    "lesspass-pure": "~4.1.0"
   },
   "homepage": "https://github.com/Rudloff/lesspass-cordova",
   "keywords": [
